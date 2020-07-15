@@ -5,7 +5,7 @@ import flatPickr from 'vue-flatpickr-component';
 import VueQuillEditor from 'vue-quill-editor';
 import Notifications from 'vue-notification';
 import Multiselect from 'vue-multiselect';
-import VeeValidate from 'vee-validate';
+import * as VeeValidate from 'vee-validate';
 import 'flatpickr/dist/flatpickr.css';
 import VueCookie from 'vue-cookie';
 import { Admin } from 'craftable';
